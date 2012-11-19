@@ -4,4 +4,7 @@ This is a set of links, instructions, and notes about making Data Practices Act 
 
 ## Important Links
 
-* [Government data practices laws](https://revisor.mn.gov/statutes/?id=13)
+* [MN data practices laws (Article 13)](https://www.revisor.leg.state.mn.us/statutes/?id=13)
+* [MN data admin rules (Rule 1205)](https://www.revisor.leg.state.mn.us/rules/?id=1205)
+* [MN House of Legislatures Manual](http://www.house.leg.state.mn.us/hrd/pubs/dataprac.pdf) (last updated July 2010)
+* [Sunshine Review entry on MN](http://sunshinereview.org/index.php/Minnesota_Data_Practices_Act)

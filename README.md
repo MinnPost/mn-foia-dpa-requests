@@ -15,3 +15,7 @@ This is a set of links, instructions, and notes about making Data Practices Act 
 
 * [National Freedom of Information Coalition (NFOIC) letter](http://www.nfoic.org/minnesota-sample-foia-request)
 * [Reporters Committee for Freedom of the Press (RCFP) form](http://www.rcfp.org/foia-letter-generator-state?state=Minnesota)
+
+## Notes
+
+* Under the [13.025](https://www.revisor.leg.state.mn.us/statutes/?id=13.025) Subdivision 01, authorities must maintain a data inventory, which assuming it is publicly available, could be a great resource for finding out what datasets are available.

@@ -35,3 +35,10 @@ There is no guarantee that the templates or advice given here will produce the d
 * [National Freedom of Information Coalition (NFOIC) letter](http://www.nfoic.org/minnesota-sample-foia-request)
 * [Reporters Committee for Freedom of the Press (RCFP) form](http://www.rcfp.org/foia-letter-generator-state?state=Minnesota)
 
+## Specific governments and agencies
+
+### City of Minneapolis
+
+* [Data Practices/Public Access Procedure](http://www.minneapolismn.gov/policies/policies_public-access-cover), direct [Word Doc file](http://www.minneapolismn.gov/www/groups/public/@clerk/documents/webcontent/convert_255906.doc).
+* [Data Charges Procedure for Public Access to Public Data](http://www.minneapolismn.gov/council/procedures/council_procedures_data-charge-guidelines).
+

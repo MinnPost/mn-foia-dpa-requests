@@ -1,4 +1,4 @@
-# Example Letter for MN
+# Dataset request
 
 The following is an example letter for a request for data for an agency in Minnesota.
 

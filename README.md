@@ -7,6 +7,8 @@ This is a set of links, instructions, and notes about making Data Practices Act 
 * [MN data practices laws (Article 13)](https://www.revisor.leg.state.mn.us/statutes/?id=13)
 * [MN data admin rules (Rule 1205)](https://www.revisor.leg.state.mn.us/rules/?id=1205)
 * [MN House of Legislatures Manual](http://www.house.leg.state.mn.us/hrd/pubs/dataprac.pdf) (last updated July 2010)
+* [MN Information Policy Analysis Division (IPAD)](http://www.ipad.state.mn.us/).  "IPAD provides assistance and advice concerning Minnesota's public access laws to members of the public and government."
+* [MN IPAD's requesting information](http://www.ipad.state.mn.us/docs/datarequestmain.html).
 * [Sunshine Review entry on MN](http://sunshinereview.org/index.php/Minnesota_Data_Practices_Act)
 
 ## Understanding the Minnesota Data Practices Act

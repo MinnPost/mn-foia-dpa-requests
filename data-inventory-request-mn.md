@@ -27,7 +27,7 @@ OR [[A SPECIFIC DATABASE OR DATASET]]
 
 I would like to obtain a complete copy of the data inventory(s).  I would like to receive the copy in an electronic format for inspection.  I would like to obtain the records electronically either via email or download.
 
-Please inform me of any fees or costs associated with this request with specifics as to the reason of these fees and costs.  Note that this information is not being sought for commercial purposes.
+As a data inventory is required by law to maintain, there should be no costs or resources to compile the data inventory.  But if necessary, please inform me of any fees or costs associated with this request with specifics as to the reason of these fees and costs. Note that this information is not being sought for commercial purposes.
 
 I would request a prompt response to this request.  If you expect a significant delay in responding to or in fulfilling this request, please contact me with information about when I might expect copies.
 

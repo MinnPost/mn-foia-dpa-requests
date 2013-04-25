@@ -17,7 +17,7 @@ Overall, the law states that records are open unless otherwise specified in the 
 
 ### Noteable parts
 
-* Under the [13.025](https://www.revisor.leg.state.mn.us/statutes/?id=13.025) Subdivision 01, authorities must maintain a data inventory, which assuming it is publicly available, could be a great resource for finding out what datasets are available.
+* Under the [13.025](https://www.revisor.leg.state.mn.us/statutes/?id=13.025) Subdivision 01, authorities must maintain a data inventory which should detail data collected, even the private and confidential parts.
 * Under the [13.03](https://www.revisor.mn.gov/statutes/?id=13.03) Subdivision 03, data can be requested for inspection which should no incure a charge.  Overall, inspection seems to apply for visual inspection of the data, and for data that is available remotely in a digital format.  Overall, it is unclear what "inspection" really means in regards to the difference of a non-"inspection" request, at least in an electronic format.
 * Under [13.06](https://www.revisor.mn.gov/statutes/?id=13.06), goverments and agencies can put "temporary classification" on data that can make it inaccessbile to the public for up to 45 days.
 

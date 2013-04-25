@@ -2,24 +2,27 @@
 
 The following is an example letter for a request for data for an agency in Minnesota.
 
-```
-<YOUR NAME>, <YOUR ORGANIZATION>
-<YOUR ADDRESS>
-<YOUR PHONE NUMBER>
+<hr>
+
+[[YOUR NAME]], [[YOUR ORGANIZATION]]  
+[[YOUR ADDRESS]]  
+[[YOUR PHONE NUMBER]]  
 
 
-<TODAY'S DATE>
+[[TODAY'S DATE]]  
 
 
-<AGENCY NAME>
-<AGENCY ADDRESS>
-<AGENCY PHONE NUMBER>
+[[AGENCY NAME]]  
+[[AGENCY ADDRESS]]  
+[[AGENCY PHONE NUMBER]]  
+  
+    
 
-To the Custodian of Records at <AGENCY NAME>:
+To the Custodian of Records at [[AGENCY NAME]]:
 
 Under the Minnesota Data Practices Act, Minnesota Statute § 13.01 et seq., I am requesting the following public records data:
 
-<BE SPECIFIC ABOUT THE DATASET YOU WANT>
+[[BE SPECIFIC ABOUT THE DATASET YOU WANT]]  
 
 I would like to obtain all public records regarding this request, current and historical.  I would like to receive the data in a electronic format for inspection.   I would prefer to obtain the records digitally via email.
 
@@ -34,8 +37,8 @@ If you deny any or all of this request, please cite each specific exemption of t
 Thank you for your time and consideration.
 
 Sincerely,
-
-<YOUR NAME>
-<YOUR ORGANIZATION>
-<YOUR PHONE NUMBER>
-```
+  
+  
+[[YOUR NAME]]  
+[[YOUR ORGANIZATION]]  
+[[YOUR PHONE NUMBER]]  

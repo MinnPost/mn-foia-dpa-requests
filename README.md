@@ -23,9 +23,12 @@ Overall, the law states that records are open unless otherwise specified in the 
 
 ## Writing a data request letter
 
+There is no guarantee that the templates or advice given here will produce the data that you request.  But hopefully it will help get you started.
+
 ### Examples
 
 * ```dataset-request-letter-mn.md```: A letter for a specific dataset from an agency in Minnesota.
+* ```data-inventory-request-mn.md```: A letter to request the data inventory from an agency in Minnesota.
 
 ### General Examples
 

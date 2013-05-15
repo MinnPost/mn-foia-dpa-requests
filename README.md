@@ -1,6 +1,6 @@
 # Minnesota DPA/FOIA requests
 
-This is a set of links, instructions, and notes about makingrequests for data under the **Data Practices Act (DPA)**, also referred to as the GovernmentData Practices Act (GDPA).  On the federal level, these laws are known as Freedom of Information Act (FOIA).
+This is a set of links, instructions, and notes about makingrequests for data under the **Data Practices Act (DPA)**, also referred to as the Government Data Practices Act (GDPA) or Minnesota Government Data Practices Act (MGDPA).  On the federal level, similar laws are known as the Freedom of Information Act (FOIA).
 
 ## Important Links
 

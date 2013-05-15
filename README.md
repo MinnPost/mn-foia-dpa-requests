@@ -1,6 +1,6 @@
 # Minnesota DPA/FOIA requests
 
-This is a set of links, instructions, and notes about making Data Practices Act (DPA) requests (federally known as Freedom of Information Act (FOIA)).
+This is a set of links, instructions, and notes about makingrequests for data under the **Data Practices Act (DPA)**, also referred to as the GovernmentData Practices Act (GDPA).  On the federal level, these laws are known as Freedom of Information Act (FOIA).
 
 ## Important Links
 
@@ -45,8 +45,10 @@ There is no guarantee that the templates or advice given here will produce the d
 
 ## Specific governments and agencies
 
-### City of Minneapolis
-
-* [Data Practices/Public Access Procedure](http://www.minneapolismn.gov/policies/policies_public-access-cover), direct [Word Doc file](http://www.minneapolismn.gov/www/groups/public/@clerk/documents/webcontent/convert_255906.doc).
-* [Data Charges Procedure for Public Access to Public Data](http://www.minneapolismn.gov/council/procedures/council_procedures_data-charge-guidelines).
-
+* City of Minneapolis
+    * [Data Practices/Public Access Procedure](http://www.minneapolismn.gov/policies/policies_public-access-cover), direct [MS Word doc](http://www.minneapolismn.gov/www/groups/public/@clerk/documents/webcontent/convert_255906.doc).
+    * [Data Charges Procedure for Public Access to Public Data](http://www.minneapolismn.gov/council/procedures/council_procedures_data-charge-guidelines).
+* City of St. Paul
+    * [Data Practics Act page](http://www.stpaul.gov/index.aspx?NID=187)
+    * General email for city, though the request will probably be re-routed to the correspending department: [cityclerk@ci.stpaul.mn.us](mailto:cityclerk@ci.stpaul.mn.us)
+    * [Guideline and Procedures for the Data Practices Act](http://www.stpaul.gov/DocumentCenter/Home/View/19805) (MS Word doc).

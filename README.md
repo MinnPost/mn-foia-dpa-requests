@@ -1,33 +1,44 @@
 # Minnesota DPA/FOIA requests
 
-This is a set of links, instructions, and notes about makingrequests for data under the **Data Practices Act (DPA)**, also referred to as the Government Data Practices Act (GDPA) or Minnesota Government Data Practices Act (MGDPA).  On the federal level, similar laws are known as the Freedom of Information Act (FOIA).
+This is a set of links, instructions, and notes about making requests for data under the **Data Practices Act (DPA)**, also referred to as the Government Data Practices Act (GDPA) or Minnesota Government Data Practices Act (MGDPA).  On the federal level, similar laws are known as the Freedom of Information Act (FOIA).
 
 ## Important Links
 
-* State laws and rules
-    * [MN 13 Data Practices Act](https://www.revisor.leg.state.mn.us/statutes/?id=13)
-    * [MN 15.17 official records](https://www.revisor.mn.gov/statutes/?id=15.17)
-    * [MN 138.17 Goverment records; administration](https://www.revisor.mn.gov/statutes/?id=138.17)
-    * [MN Rule 1205 data admin rules](https://www.revisor.leg.state.mn.us/rules/?id=1205)
-* [MN House of Legislatures Manual](http://www.house.leg.state.mn.us/hrd/pubs/dataprac.pdf) (last updated July 2010)
-* [MN Information Policy Analysis Division (IPAD)](http://www.ipad.state.mn.us/).  "IPAD provides assistance and advice concerning Minnesota's public access laws to members of the public and government."
-    * [MN IPAD's requesting information](http://www.ipad.state.mn.us/docs/datarequestmain.html).
-* [Sunshine Review entry on MN](http://sunshinereview.org/index.php/Minnesota_Data_Practices_Act)
+* **State statutes and administrative rules**
+    * [Minn. Stat. Ch. 13 — Data Practices Act](https://www.revisor.leg.state.mn.us/statutes/?id=13)
+    * [Minn. Stat. Ch. 13D — Open Meeting Law](https://www.revisor.mn.gov/statutes/?id=13D)
+    * [Minn. Stat. § 15.17 — Official records](https://www.revisor.mn.gov/statutes/?id=15.17)
+    * [Minn. Stat. § 138.17 — Government records; administration](https://www.revisor.mn.gov/statutes/?id=138.17)
+    * [Minn. Rule Ch. 1205 — Data Practices administrative rules](https://www.revisor.leg.state.mn.us/rules/?id=1205)
+* **Legislative Briefs and Research**
+    * [MN House of Legislature Manual](http://www.house.leg.state.mn.us/hrd/pubs/dataprac.pdf) (last updated July 2010)
+* **Minnesota Department of Administration — Information Policy Analysis Division (IPAD)** "IPAD provides assistance and advice concerning Minnesota's public access laws to members of the public and government."
+    * [IPAD Homepage](http://www.ipad.state.mn.us/)
+    * [IPAD Data Practices Advisory Opinions, by topic](http://www.ipad.state.mn.us/opinions/)
+    * [IPAD Data Practices Advisory Opinions, by year](http://www.ipad.state.mn.us/docs/opslistbyyear.html)
+    * [IPAD Website full text search](http://search.state.mn.us/ipad/)
+    * [IPAD Requesting Information guide](http://www.ipad.state.mn.us/docs/datarequestmain.html)
+* **Third-Party Resources**
+    * [Sunshine Review entry on MN](http://sunshinereview.org/index.php/Minnesota_Data_Practices_Act)
 
-## Understanding the Minnesota Data Practices Act
+## Understanding the Minnesota Government Data Practices Act
 
 Do keep in mind that no person writing this is a lawyer or has a law degree.  These are experiences and knowledge from the perspective of journalism.
 
-Overall, the law states that records are open unless otherwise specified in the law.  Do keep in mind that there are 100's of exceptions in the law.  So, in general the burden is on the government or agency to show why information can be legally withheld.
+Overall, the law states that records are open unless otherwise specified by state or federal law, or by temporary classification.  Do keep in mind that there are 100's of exceptions in the law.  So, in general the burden is on the government or agency to show why information can be legally withheld.  The majority of potential data types can be found by [browsing Chapter 13 of Minnesota Statutes](https://www.revisor.mn.gov/statutes/?id=13).
+
+There is no requirement that a data requestor be a Minnesota resident or even a United States citizen.  There is no requirement that a data requestor identify themselves beyond providing a reasonable contact method to be reached at.
 
 ### Noteable parts
 
-* Under the [13.025](https://www.revisor.leg.state.mn.us/statutes/?id=13.025) Subdivision 01, authorities must maintain a data inventory which should detail data collected, even the private and confidential parts.
-* Under the [13.03](https://www.revisor.mn.gov/statutes/?id=13.03) Subdivision 03, data can be requested for inspection which should no incure a charge.  Overall, inspection seems to apply for visual inspection of the data, and for data that is available remotely in a digital format.  Overall, it is unclear what "inspection" really means in regards to the difference of a non-"inspection" request, at least in an electronic format.
-* Under [13.06](https://www.revisor.mn.gov/statutes/?id=13.06), goverments and agencies can put "temporary classification" on data that can make it inaccessbile to the public for up to 45 days.
+* Under [Minn. Stat. § 13.025, subd. 1](https://www.revisor.leg.state.mn.us/statutes/?id=13.025), an agency's Responsible Authority must maintain a data inventory which should detail data collected, even the private and confidential parts. Data inventories are a new requirement in 2012, so many government agencies haven't prepared them.
+* Under [Minn. Stat. § 13.025, subd. 2](https://www.revisor.leg.state.mn.us/statutes/?id=13.025), an agency's Responsible Authority must prepare a written data access policy and update it annually. This document must list the name of the Responsible Authority and designees, and the agency's Data Practices Compliance Official, in addition to outlining procedures that "impact the public's ability to access data."
+* Under [Minn. Stat. § 13.03, subd. 3](https://www.revisor.mn.gov/statutes/?id=13.03), anyone can request to *inspect* data (rather than request copies of it) without being required to pay. Inspection applies to visual inspection of the data, and data that is available remotely in a digital format.  State law is vague and contradictory as to whether inspection applies to receiving a data file.
+* Under [Minn. Stat. § 13.06](https://www.revisor.mn.gov/statutes/?id=13.06), a responsible authority at a government agency can request a temporary classification from the Minnesota Commissioner of Administration, which makes it automatically non-public for up to 45 days until the Commissioner makes a determination.  If the commissioner approves the temporary classification, it is only valid for one legislative cycle for the legislature to act on and codify into law.
 * The DPA does not apply to:
     * State Legislature (see [IPAD presentation](http://www.ipad.state.mn.us/docs/Can%20I%20ask%20for%20that.pdf) (law link needed)
     * Certain Townships (see [IPAD presentation](http://www.ipad.state.mn.us/docs/Can%20I%20ask%20for%20that.pdf) (link needed)
+    * The Judiciary, including all state courts (see [Minn. Stat. § 13.90](https://www.revisor.leg.state.mn.us/statutes/?id=13.90#stat.13.90))
 
 ## Writing a data request letter
 

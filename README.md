@@ -2,6 +2,7 @@
 
 This is a set of links, instructions, and notes about making requests for data under the **Data Practices Act (DPA)**, also referred to as the Government Data Practices Act (GDPA) or Minnesota Government Data Practices Act (MGDPA).  On the federal level, similar laws are known as the Freedom of Information Act (FOIA).
 
+
 ## Important Links
 
 * **State statutes and administrative rules**
@@ -22,8 +23,6 @@ This is a set of links, instructions, and notes about making requests for data u
     * [Sunshine Review entry on MN](http://sunshinereview.org/index.php/Minnesota_Data_Practices_Act)
 
 ## Understanding the Minnesota Government Data Practices Act
-
-Do keep in mind that no person writing this is a lawyer or has a law degree.  These are experiences and knowledge from the perspective of journalism.
 
 Overall, the law states that records are open unless otherwise specified by state or federal law, or by temporary classification.  Do keep in mind that there are 100's of exceptions in the law.  So, in general the burden is on the government or agency to show why information can be legally withheld.  The majority of potential data types can be found by [browsing Chapter 13 of Minnesota Statutes](https://www.revisor.mn.gov/statutes/?id=13).
 
@@ -54,6 +53,10 @@ There is no guarantee that the templates or advice given here will produce the d
 * [National Freedom of Information Coalition (NFOIC) letter](http://www.nfoic.org/minnesota-sample-foia-request)
 * [Reporters Committee for Freedom of the Press (RCFP) form](http://www.rcfp.org/foia-letter-generator-state?state=Minnesota)
 
+## Case Law
+
+* (Case law citations needed)
+
 ## Specific governments and agencies
 
 * City of Minneapolis
@@ -63,3 +66,11 @@ There is no guarantee that the templates or advice given here will produce the d
     * [Data Practics Act page](http://www.stpaul.gov/index.aspx?NID=187)
     * General email for city, though the request will probably be re-routed to the correspending department: [cityclerk@ci.stpaul.mn.us](mailto:cityclerk@ci.stpaul.mn.us)
     * [Guideline and Procedures for the Data Practices Act](http://www.stpaul.gov/DocumentCenter/Home/View/19805) (MS Word doc).
+* Minnesota Department of Public Safety
+    * [Bureau of Criminal Apprehension Data Inventory](https://dps.mn.gov/divisions/bca/Documents/Data%20Inventory%20080112.pdf)
+    * [DPS Public Access Procedures](https://dps.mn.gov/Documents/public-access-to-data.pdf)
+    
+## Disclaimer
+
+The information contained herein is for general informational purposes only and does not constitute legal advice or a substitute for legal counsel. No attorney-client relationship is created. This information is provided "AS-IS" and without warranty. Laws and court opinions of those laws change frequently.
+

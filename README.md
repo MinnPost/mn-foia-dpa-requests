@@ -67,6 +67,9 @@ There is no guarantee that the templates or advice given here will produce the d
     * [Data Practics Act page](http://www.stpaul.gov/index.aspx?NID=187)
     * General email for city, though the request will probably be re-routed to the correspending department: [cityclerk@ci.stpaul.mn.us](mailto:cityclerk@ci.stpaul.mn.us)
     * [Guideline and Procedures for the Data Practices Act](http://www.stpaul.gov/DocumentCenter/Home/View/19805) (MS Word doc).
+* Metropolitan Council
+	* [Data Access Procedures](http://www.metrocouncil.org/Terms-Conditions/Data-Access-Procedure.aspx) (PDF)
+    * The document outlines data practices contacts for each department, so it is difficult to know who to email about requests.
 * Minnesota Department of Public Safety
     * [Bureau of Criminal Apprehension Data Inventory](https://dps.mn.gov/divisions/bca/Documents/Data%20Inventory%20080112.pdf)
     * [DPS Public Access Procedures](https://dps.mn.gov/Documents/public-access-to-data.pdf)

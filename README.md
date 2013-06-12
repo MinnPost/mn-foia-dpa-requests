@@ -73,6 +73,7 @@ There is no guarantee that the templates or advice given here will produce the d
 * Hennepin County
     * [Data Practices Act page](http://hennepin.us/portal/site/HennepinUS/menuitem.b1ab75471750e40fa01dfb47ccf06498/?vgnextoid=9b22712db6733310VgnVCM10000099fe4689RCRD)
     * They actually provide a [DPA form (MS Word doc)](http://hennepin.us/files/HennepinUS/Information%20Technology/Data%20Request%20Form%20-%20Members%20of%20the%20Public.doc) to fill out to make a DPA request.  It is fairly basic and does not go into detail about electronic format, so it may not be worth using.
+    * List of [Responsible Authorities and their contact info](http://hennepin.us/portal/site/HennepinUS/menuitem.b1ab75471750e40fa01dfb47ccf06498/?vgnextoid=ea7ec0fe2180a310VgnVCM20000098fe4689RCRD).
 * Minnesota Department of Public Safety
     * [Bureau of Criminal Apprehension Data Inventory](https://dps.mn.gov/divisions/bca/Documents/Data%20Inventory%20080112.pdf)
     * [DPS Public Access Procedures](https://dps.mn.gov/Documents/public-access-to-data.pdf)
